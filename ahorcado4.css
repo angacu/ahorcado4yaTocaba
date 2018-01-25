@@ -1,0 +1,65 @@
+#fondo{
+  background-color: yellow;
+}
+
+#cuadroResultado{
+   border: 1px solid #165480;
+   width: 200px;
+}
+#cuadroResultado{
+   background-color: #5fa6d7;
+   font-weight: bold;
+   font-size: 8pt;
+   padding: 2 2 2 2px;
+}
+#cuadroResultado{
+   font-size: 8pt;
+   padding: 4 4 4 4px;
+   background-color: #ffffcc;
+}
+#cuadroComprobar{
+   border: 1px solid #165480;
+   width: 200px;
+}
+#cuadroComprobar{
+   background-color: #5fa6d7;
+   font-weight: bold;
+   font-size: 8pt;
+   padding: 2 2 2 2px;
+}
+#cuadroComprobar{
+   font-size: 8pt;
+   padding: 4 4 4 4px;
+   background-color: #ffffcc;
+}
+#cuadroErrores{
+   border: 1px solid #165480;
+   width: 200px;
+}
+#cuadroErrores{
+   background-color: #5fa6d7;
+   font-weight: bold;
+   font-size: 8pt;
+   padding: 2 2 2 2px;
+}
+#cuadroErrores{
+   font-size: 8pt;
+   padding: 4 4 4 4px;
+   background-color: #ffffcc;
+}
+
+#letraUsuario{
+   border: 1px solid #165480;
+   width: 200px;
+}
+#letraUsuario{
+   background-color: #5fa6d7;
+   font-weight: bold;
+   font-size: 8pt;
+   padding: 2 2 2 2px;
+}
+#letraUsuario{
+   font-size: 8pt;
+   padding: 4 4 4 4px;
+   background-color: #ffffcc;
+}
